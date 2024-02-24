@@ -1,0 +1,5 @@
+require("samir.packer")
+require("samir.remap")
+require("samir.lsp")
+require("samir.undotree")
+require("samir.tmuxnav")
